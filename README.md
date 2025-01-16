@@ -12,7 +12,7 @@ npm (Node Package Manager)
 Installation
 1. Clone the repository:
 
-   git clone https://github.com/hanrepo1/blog-platform-back.git
+   git clone https://github.com/hanrepo1/be-base-app.git
 
 2. Navigate to the project directory:
 
